@@ -1,4 +1,4 @@
-# KPMD-Customer-Segmentation-project
+# KPMG-Customer-Segmentation-project
 Analysis of Skyrocketed PTY LTD customer data to Identify the High-Value Customer and How to Target them 
 
 As we embarked on our journey to achieve growth and expand our market presence, I found myself at the helm of a significant endeavor for Sprocket Central Pty Ltd. We were renowned for providing top-tier bicycles and cycling accessories, but our ambitions reached further - to understand our customers at a granular level.
