@@ -1,10 +1,23 @@
 # KPMG-Customer-Segmentation-project
-Analysis of Skyrocketed PTY LTD customer data to Identify the High-Value Customers and How to Target them 
 
-As I embarked on this journey to achieve growth and expand the market presence, I found myself at the helm of a significant endeavor for Sprocket Central Pty Ltd. The company is renowned for providing top-tier bicycles and cycling accessories, but its ambitions reached further - to understand its customers at a granular level.
+# Problem Statement:
 
-The company's primary objective was crystal clear: I utilize data to unravel customer behavior and preferences. Amidst a cohort of 1000 new potential customers, the task was to identify and prioritize those with the highest potential to become potential customers.
+Skyrocketed PTY LTD aimed to identify high-value customers and develop targeted strategies to attract and retain them. With a dataset of 1000 potential customers, the challenge was to analyze customer behavior and preferences to prioritize those with the highest potential. The objective was to uncover shared traits, behaviors, and preferences beyond demographics, leveraging Power BI and Tableau alongside Python for a comprehensive analysis.
 
-To achieve this, I harnessed the wealth of existing customer data available. Through meticulous analysis, I aimed to create customer segments that transcended mere demographics, illuminating shared traits, behaviors, and preferences.
+# Tools Used:
 
-This project was more than numbers and figures; it was about the analysis of customer segmentation. It was about translating data into actionable insights that shaped the company strategy and led it to a future of sustained success in the competitive cycling and accessories market. 
+For this analysis, I employed Python for data manipulation and analysis, Pandas for data cleaning and organization, Scikit-learn for machine learning algorithms, and Power BI and Tableau for interactive visualization. Additionally, Matplotlib and Seaborn were used for static visualization, while Jupyter Notebook facilitated project documentation and collaboration.
+
+# Approach:
+
+  Data Collection: Utilize existing customer data to analyze behavior and preferences.
+  Data Cleaning: Ensure data integrity by addressing missing values and inconsistencies.
+  Exploratory Data Analysis (EDA): Conduct comprehensive analysis to uncover patterns and trends in customer data.
+  Customer Segmentation: Utilize machine learning algorithms to create customer segments based on behavior and preferences.
+  Insight Generation: Extract actionable insights from customer segments to inform targeted marketing strategies.
+  Visualization: Utilize Power BI and Tableau for interactive visualization to enhance data exploration and communication of insights.
+  Validation and Optimization: Validate segmentation results and optimize strategies based on feedback and performance metrics.
+
+# Solutions:
+
+Through meticulous analysis and visualization using Power BI, Tableau, and Python, actionable insights were derived to guide targeted marketing efforts for Skyrocketed PTY LTD. By understanding customer behavior and preferences, the company can attract and retain high-value customers more effectively, leading to sustained success in the competitive cycling and accessories market. This project highlights the synergy between data analysis and visualization tools in driving business growth and expansion.
